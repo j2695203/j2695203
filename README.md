@@ -19,7 +19,7 @@ I'm a software enthusiast with a passion for using technology to create a positi
 - ⚡ Fun fact: Snowboarding and volleyball enthusiast in my free time🏂🏐
 
 ## 🌐 &nbsp;Personal Website
-    Coming Soon...
+  [![Personal Website](https://img.shields.io/badge/Personal%20Website-%2312100E.svg?style=flat&logo=google-chrome&logoColor=white)]([https://your-website-url.com](https://j2695203.github.io/))
 
 ## 🤝 &nbsp;Connect with Me
 
